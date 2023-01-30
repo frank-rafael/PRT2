@@ -1,7 +1,7 @@
 # Yape-Code-Challenge
 ### Tech Stack:
 
-[![NestJS][NestJS]][NestJS-url] [![Typescript][Prisma]][Prisma-url] [![GraphQL][GraphQL]][GraphQL-url] [![Postgres][Postgres]][Postgres-url] [![Kafka][Kafka]][Kafka-url] [![Docker][Docker]][Docker-url]
+[![NestJS][NestJS]][NestJS-url] [![Typescript][Typescript]][Typescript-url] [![GraphQL][GraphQL]][GraphQL-url] [![Prisma][Prisma]][Prisma-url] [![Postgres][Postgres]][Postgres-url] [![Kafka][Kafka]][Kafka-url] [![Docker][Docker]][Docker-url]
 
 
 ## Main Setup
@@ -80,7 +80,7 @@ query{
 [Prisma-url]: https://www.prisma.io/
 [Postgres-url]: https://www.postgresql.org/
 [Postgres]: https://skillicons.dev/icons?i=postgres
-[Kafka]: https://skillicons.dev/icons?i=prisma
+[Kafka]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/48px-Apache_kafka-icon.svg.png
 [Kafka-url]: https://kafka.apache.org/
 [Docker]: https://skillicons.dev/icons?i=docker
 [Docker-url]: https://www.docker.com/
