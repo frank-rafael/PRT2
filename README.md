@@ -1,13 +1,8 @@
 # Yape-Code-Challenge
 ### Tech Stack:
 
-* [![NestJS][NestJS]][NestJS-url] [![Typescript][Prisma]][Prisma-url]
-* [![Typescript][Prisma]][Prisma-url]
-* [![GraphQL][Prisma]][Prisma-url]
-* [![Prisma][Prisma]][Prisma-url]
-* [![Postgres][Prisma]][Prisma-url]
-* [![Kafka][Prisma]][Prisma-url]
-* [![Docker][Prisma]][Prisma-url]
+[![NestJS][NestJS]][NestJS-url] [![Typescript][Prisma]][Prisma-url] [![GraphQL][GraphQL]][GraphQL-url] [![Postgres][Postgres]][Postgres-url] [![Kafka][Kafka]][Kafka-url] [![Docker][Docker]][Docker-url]
+
 
 ## Main Setup
 
@@ -75,7 +70,17 @@ query{
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[NestJS ]: https://skillicons.dev/icons?i=nestjs
+[NestJS]: https://skillicons.dev/icons?i=nestjs
 [NestJS-url]: https://nestjs.com/
+[Typescript]: https://skillicons.dev/icons?i=ts
+[Typescript-url]: https://www.typescriptlang.org/
+[GraphQL]: https://skillicons.dev/icons?i=graphql
+[GraphQL-url]: https://graphql.org/
 [Prisma]: https://skillicons.dev/icons?i=prisma
 [Prisma-url]: https://www.prisma.io/
+[Postgres-url]: https://www.postgresql.org/
+[Postgres]: https://skillicons.dev/icons?i=postgres
+[Kafka]: https://skillicons.dev/icons?i=prisma
+[Kafka-url]: https://kafka.apache.org/
+[Docker]: https://skillicons.dev/icons?i=docker
+[Docker-url]: https://www.docker.com/
