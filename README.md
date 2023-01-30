@@ -1,14 +1,13 @@
 # Yape-Code-Challenge
 ### Tech Stack:
-- NestJS
-- Typescript
-- GraphQL
-- Kafka
-- Postgres
-- Docker
-* [![NestJS][NestJS]][NestJS-url]
-* [![Prisma][Prisma]][Prisma-url]
 
+* [![NestJS][NestJS]][NestJS-url] [![Typescript][Prisma]][Prisma-url]
+* [![Typescript][Prisma]][Prisma-url]
+* [![GraphQL][Prisma]][Prisma-url]
+* [![Prisma][Prisma]][Prisma-url]
+* [![Postgres][Prisma]][Prisma-url]
+* [![Kafka][Prisma]][Prisma-url]
+* [![Docker][Prisma]][Prisma-url]
 
 ## Main Setup
 
