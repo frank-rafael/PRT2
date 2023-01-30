@@ -80,7 +80,7 @@ query{
 [Prisma-url]: https://www.prisma.io/
 [Postgres-url]: https://www.postgresql.org/
 [Postgres]: https://skillicons.dev/icons?i=postgres
-[Kafka]: https://freeimage.host/i/H1FlLEg
+[Kafka]: https://iili.io/H1FlLEg.png
 [Kafka-url]: https://kafka.apache.org/
 [Docker]: https://skillicons.dev/icons?i=docker
 [Docker-url]: https://www.docker.com/
